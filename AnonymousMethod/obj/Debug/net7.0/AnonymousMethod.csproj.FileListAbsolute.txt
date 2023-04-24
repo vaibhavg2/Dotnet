@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.exe
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.dll
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.pdb
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.dll
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\obj\Debug\net7.0\refint\AnonymousMethod.dll
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.pdb
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\AnonymousMethod\obj\Debug\net7.0\ref\AnonymousMethod.dll

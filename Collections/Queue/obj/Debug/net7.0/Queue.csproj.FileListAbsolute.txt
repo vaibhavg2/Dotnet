@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\bin\Debug\net7.0\Queue.exe
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\bin\Debug\net7.0\Queue.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\bin\Debug\net7.0\Queue.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\bin\Debug\net7.0\Queue.dll
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\bin\Debug\net7.0\Queue.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\obj\Debug\net7.0\Queue.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\obj\Debug\net7.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\obj\Debug\net7.0\Queue.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\obj\Debug\net7.0\Queue.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\obj\Debug\net7.0\Queue.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\obj\Debug\net7.0\Queue.dll
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\obj\Debug\net7.0\refint\Queue.dll
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\obj\Debug\net7.0\Queue.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\obj\Debug\net7.0\Queue.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Queue\obj\Debug\net7.0\ref\Queue.dll

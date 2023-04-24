@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\bin\Debug\net7.0\StreamReader.exe
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\bin\Debug\net7.0\StreamReader.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\bin\Debug\net7.0\StreamReader.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\bin\Debug\net7.0\StreamReader.dll
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\bin\Debug\net7.0\StreamReader.pdb
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\obj\Debug\net7.0\StreamReader.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\obj\Debug\net7.0\StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\obj\Debug\net7.0\StreamReader.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\obj\Debug\net7.0\StreamReader.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\obj\Debug\net7.0\StreamReader.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\obj\Debug\net7.0\StreamReader.dll
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\obj\Debug\net7.0\refint\StreamReader.dll
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\obj\Debug\net7.0\StreamReader.pdb
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\obj\Debug\net7.0\StreamReader.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\StreamReader\obj\Debug\net7.0\ref\StreamReader.dll

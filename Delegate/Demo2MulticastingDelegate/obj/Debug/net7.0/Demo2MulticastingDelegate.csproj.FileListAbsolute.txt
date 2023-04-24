@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\bin\Debug\net7.0\Demo2MulticastingDelegate.exe
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\bin\Debug\net7.0\Demo2MulticastingDelegate.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\bin\Debug\net7.0\Demo2MulticastingDelegate.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\bin\Debug\net7.0\Demo2MulticastingDelegate.dll
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\bin\Debug\net7.0\Demo2MulticastingDelegate.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\obj\Debug\net7.0\Demo2MulticastingDelegate.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\obj\Debug\net7.0\Demo2MulticastingDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\obj\Debug\net7.0\Demo2MulticastingDelegate.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\obj\Debug\net7.0\Demo2MulticastingDelegate.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\obj\Debug\net7.0\Demo2MulticastingDelegate.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\obj\Debug\net7.0\Demo2MulticastingDelegate.dll
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\obj\Debug\net7.0\refint\Demo2MulticastingDelegate.dll
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\obj\Debug\net7.0\Demo2MulticastingDelegate.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\obj\Debug\net7.0\Demo2MulticastingDelegate.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\Delegate\Demo2MulticastingDelegate\obj\Debug\net7.0\ref\Demo2MulticastingDelegate.dll

@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\bin\Debug\net7.0\Serialization.exe
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\bin\Debug\net7.0\Serialization.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\bin\Debug\net7.0\Serialization.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\bin\Debug\net7.0\Serialization.dll
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\bin\Debug\net7.0\Serialization.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\obj\Debug\net7.0\Serialization.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\obj\Debug\net7.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\obj\Debug\net7.0\Serialization.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\obj\Debug\net7.0\Serialization.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\obj\Debug\net7.0\Serialization.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\obj\Debug\net7.0\Serialization.dll
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\obj\Debug\net7.0\refint\Serialization.dll
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\obj\Debug\net7.0\Serialization.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\obj\Debug\net7.0\Serialization.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\Serialization\obj\Debug\net7.0\ref\Serialization.dll

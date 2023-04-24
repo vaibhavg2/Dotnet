@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\bin\Debug\net7.0\Indexers.exe
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\bin\Debug\net7.0\Indexers.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\bin\Debug\net7.0\Indexers.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\bin\Debug\net7.0\Indexers.dll
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\bin\Debug\net7.0\Indexers.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\obj\Debug\net7.0\Indexers.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\obj\Debug\net7.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\obj\Debug\net7.0\Indexers.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\obj\Debug\net7.0\Indexers.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\obj\Debug\net7.0\Indexers.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\obj\Debug\net7.0\Indexers.dll
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\obj\Debug\net7.0\refint\Indexers.dll
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\obj\Debug\net7.0\Indexers.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\obj\Debug\net7.0\Indexers.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\Indexers\obj\Debug\net7.0\ref\Indexers.dll
