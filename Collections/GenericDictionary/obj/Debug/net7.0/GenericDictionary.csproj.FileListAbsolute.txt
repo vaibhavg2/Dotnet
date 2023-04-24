@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\bin\Debug\net7.0\GenericDictionary.exe
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\bin\Debug\net7.0\GenericDictionary.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\bin\Debug\net7.0\GenericDictionary.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\bin\Debug\net7.0\GenericDictionary.dll
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\bin\Debug\net7.0\GenericDictionary.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\obj\Debug\net7.0\GenericDictionary.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\obj\Debug\net7.0\GenericDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\obj\Debug\net7.0\GenericDictionary.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\obj\Debug\net7.0\GenericDictionary.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\obj\Debug\net7.0\GenericDictionary.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\obj\Debug\net7.0\GenericDictionary.dll
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\obj\Debug\net7.0\refint\GenericDictionary.dll
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\obj\Debug\net7.0\GenericDictionary.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\obj\Debug\net7.0\GenericDictionary.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\Collections\GenericDictionary\obj\Debug\net7.0\ref\GenericDictionary.dll

@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\bin\Debug\net7.0\Linq to obj.exe
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\bin\Debug\net7.0\Linq to obj.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\bin\Debug\net7.0\Linq to obj.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\bin\Debug\net7.0\Linq to obj.dll
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\bin\Debug\net7.0\Linq to obj.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\obj\Debug\net7.0\Linq to obj.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\obj\Debug\net7.0\Linq to obj.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\obj\Debug\net7.0\Linq to obj.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\obj\Debug\net7.0\Linq to obj.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\obj\Debug\net7.0\Linq to obj.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\obj\Debug\net7.0\Linq to obj.dll
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\obj\Debug\net7.0\refint\Linq to obj.dll
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\obj\Debug\net7.0\Linq to obj.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\obj\Debug\net7.0\Linq to obj.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\Linq to obj\obj\Debug\net7.0\ref\Linq to obj.dll

@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\bin\Debug\net7.0\AsyncAwait.exe
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\bin\Debug\net7.0\AsyncAwait.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\bin\Debug\net7.0\AsyncAwait.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\bin\Debug\net7.0\AsyncAwait.dll
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\bin\Debug\net7.0\AsyncAwait.pdb
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\obj\Debug\net7.0\AsyncAwait.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\obj\Debug\net7.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\obj\Debug\net7.0\AsyncAwait.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\obj\Debug\net7.0\AsyncAwait.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\obj\Debug\net7.0\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\obj\Debug\net7.0\AsyncAwait.dll
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\obj\Debug\net7.0\refint\AsyncAwait.dll
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\obj\Debug\net7.0\AsyncAwait.pdb
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\obj\Debug\net7.0\AsyncAwait.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\AsyncAwait\obj\Debug\net7.0\ref\AsyncAwait.dll

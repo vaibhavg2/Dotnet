@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\bin\Debug\net7.0\LambdaExpression.exe
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\bin\Debug\net7.0\LambdaExpression.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\bin\Debug\net7.0\LambdaExpression.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\bin\Debug\net7.0\LambdaExpression.dll
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\bin\Debug\net7.0\LambdaExpression.pdb
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\obj\Debug\net7.0\LambdaExpression.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\obj\Debug\net7.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\obj\Debug\net7.0\LambdaExpression.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\obj\Debug\net7.0\LambdaExpression.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\obj\Debug\net7.0\LambdaExpression.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\obj\Debug\net7.0\LambdaExpression.dll
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\obj\Debug\net7.0\refint\LambdaExpression.dll
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\obj\Debug\net7.0\LambdaExpression.pdb
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\obj\Debug\net7.0\LambdaExpression.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\LambdaExpression\obj\Debug\net7.0\ref\LambdaExpression.dll

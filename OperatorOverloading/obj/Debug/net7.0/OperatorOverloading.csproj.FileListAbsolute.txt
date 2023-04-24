@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.exe
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.dll
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.pdb
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.dll
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\obj\Debug\net7.0\refint\OperatorOverloading.dll
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.pdb
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\OperatorOverloading\obj\Debug\net7.0\ref\OperatorOverloading.dll

@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\bin\Debug\net7.0\DirectoryInfo Class.exe
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\bin\Debug\net7.0\DirectoryInfo Class.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\bin\Debug\net7.0\DirectoryInfo Class.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\bin\Debug\net7.0\DirectoryInfo Class.dll
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\bin\Debug\net7.0\DirectoryInfo Class.pdb
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\obj\Debug\net7.0\DirectoryInfo Class.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\obj\Debug\net7.0\DirectoryInfo Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\obj\Debug\net7.0\DirectoryInfo Class.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\obj\Debug\net7.0\DirectoryInfo Class.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\obj\Debug\net7.0\DirectoryInfo Class.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\obj\Debug\net7.0\DirectoryInfo Class.dll
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\obj\Debug\net7.0\refint\DirectoryInfo Class.dll
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\obj\Debug\net7.0\DirectoryInfo Class.pdb
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\obj\Debug\net7.0\DirectoryInfo Class.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\DirectoryInfo Class\obj\Debug\net7.0\ref\DirectoryInfo Class.dll

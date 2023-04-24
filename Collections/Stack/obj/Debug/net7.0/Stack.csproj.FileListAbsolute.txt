@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\bin\Debug\net7.0\Stack.exe
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\bin\Debug\net7.0\Stack.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\bin\Debug\net7.0\Stack.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\bin\Debug\net7.0\Stack.dll
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\bin\Debug\net7.0\Stack.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\obj\Debug\net7.0\Stack.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\obj\Debug\net7.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\obj\Debug\net7.0\Stack.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\obj\Debug\net7.0\Stack.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\obj\Debug\net7.0\Stack.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\obj\Debug\net7.0\Stack.dll
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\obj\Debug\net7.0\refint\Stack.dll
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\obj\Debug\net7.0\Stack.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\obj\Debug\net7.0\Stack.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\Collections\Stack\obj\Debug\net7.0\ref\Stack.dll

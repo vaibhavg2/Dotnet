@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\bin\Debug\net7.0\Demo2.exe
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\bin\Debug\net7.0\Demo2.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\bin\Debug\net7.0\Demo2.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\bin\Debug\net7.0\Demo2.dll
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\bin\Debug\net7.0\Demo2.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\obj\Debug\net7.0\Demo2.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\obj\Debug\net7.0\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\obj\Debug\net7.0\Demo2.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\obj\Debug\net7.0\Demo2.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\obj\Debug\net7.0\Demo2.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\obj\Debug\net7.0\Demo2.dll
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\obj\Debug\net7.0\refint\Demo2.dll
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\obj\Debug\net7.0\Demo2.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\obj\Debug\net7.0\Demo2.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\Reflection\Demo2\obj\Debug\net7.0\ref\Demo2.dll

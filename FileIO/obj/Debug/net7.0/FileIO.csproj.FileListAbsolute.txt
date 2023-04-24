@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\bin\Debug\net7.0\FileIO.exe
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\bin\Debug\net7.0\FileIO.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\bin\Debug\net7.0\FileIO.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\bin\Debug\net7.0\FileIO.dll
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\bin\Debug\net7.0\FileIO.pdb
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\obj\Debug\net7.0\FileIO.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\obj\Debug\net7.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\obj\Debug\net7.0\FileIO.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\obj\Debug\net7.0\FileIO.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\obj\Debug\net7.0\FileIO.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\obj\Debug\net7.0\FileIO.dll
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\obj\Debug\net7.0\refint\FileIO.dll
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\obj\Debug\net7.0\FileIO.pdb
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\obj\Debug\net7.0\FileIO.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\FileIO\obj\Debug\net7.0\ref\FileIO.dll

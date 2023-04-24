@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\bin\Debug\net7.0\Attribute.exe
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\bin\Debug\net7.0\Attribute.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\bin\Debug\net7.0\Attribute.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\bin\Debug\net7.0\Attribute.dll
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\bin\Debug\net7.0\Attribute.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\obj\Debug\net7.0\Attribute.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\obj\Debug\net7.0\Attribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\obj\Debug\net7.0\Attribute.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\obj\Debug\net7.0\Attribute.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\obj\Debug\net7.0\Attribute.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\obj\Debug\net7.0\Attribute.dll
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\obj\Debug\net7.0\refint\Attribute.dll
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\obj\Debug\net7.0\Attribute.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\obj\Debug\net7.0\Attribute.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\Attribute\obj\Debug\net7.0\ref\Attribute.dll

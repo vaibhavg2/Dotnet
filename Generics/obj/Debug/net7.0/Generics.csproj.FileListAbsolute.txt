@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\Generics\bin\Debug\net7.0\Generics.exe
+D:\DAC\Hussain sir's Dotnet\Self\Generics\bin\Debug\net7.0\Generics.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\Generics\bin\Debug\net7.0\Generics.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\Generics\bin\Debug\net7.0\Generics.dll
+D:\DAC\Hussain sir's Dotnet\Self\Generics\bin\Debug\net7.0\Generics.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Generics\obj\Debug\net7.0\Generics.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\Generics\obj\Debug\net7.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\Generics\obj\Debug\net7.0\Generics.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Generics\obj\Debug\net7.0\Generics.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\Generics\obj\Debug\net7.0\Generics.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\Generics\obj\Debug\net7.0\Generics.dll
+D:\DAC\Hussain sir's Dotnet\Self\Generics\obj\Debug\net7.0\refint\Generics.dll
+D:\DAC\Hussain sir's Dotnet\Self\Generics\obj\Debug\net7.0\Generics.pdb
+D:\DAC\Hussain sir's Dotnet\Self\Generics\obj\Debug\net7.0\Generics.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\Generics\obj\Debug\net7.0\ref\Generics.dll

@@ -1,0 +1,15 @@
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.exe
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.deps.json
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.dll
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.pdb
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.dll
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\obj\Debug\net7.0\refint\ExtensionMethods.dll
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.pdb
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Self\ExtensionMethods\obj\Debug\net7.0\ref\ExtensionMethods.dll
