@@ -1,0 +1,30 @@
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\bin\Debug\net7.0\DemoApp.exe
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\bin\Debug\net7.0\DemoApp.deps.json
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\bin\Debug\net7.0\DemoApp.runtimeconfig.json
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\bin\Debug\net7.0\DemoApp.dll
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\bin\Debug\net7.0\DemoApp.pdb
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\obj\Debug\net7.0\DemoApp.csproj.AssemblyReference.cache
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\obj\Debug\net7.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\obj\Debug\net7.0\DemoApp.AssemblyInfoInputs.cache
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\obj\Debug\net7.0\DemoApp.AssemblyInfo.cs
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\obj\Debug\net7.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\obj\Debug\net7.0\DemoApp.dll
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\obj\Debug\net7.0\refint\DemoApp.dll
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\obj\Debug\net7.0\DemoApp.pdb
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\obj\Debug\net7.0\DemoApp.genruntimeconfig.cache
+C:\Users\CDAC\DotNet\Language\Runtime\UnsafeCodeTest\DemoApp\obj\Debug\net7.0\ref\DemoApp.dll
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\bin\Debug\net7.0\DemoApp.exe
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\bin\Debug\net7.0\DemoApp.deps.json
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\bin\Debug\net7.0\DemoApp.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\bin\Debug\net7.0\DemoApp.dll
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\bin\Debug\net7.0\DemoApp.pdb
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\obj\Debug\net7.0\DemoApp.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\obj\Debug\net7.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\obj\Debug\net7.0\DemoApp.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\obj\Debug\net7.0\DemoApp.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\obj\Debug\net7.0\DemoApp.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\obj\Debug\net7.0\DemoApp.dll
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\obj\Debug\net7.0\refint\DemoApp.dll
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\obj\Debug\net7.0\DemoApp.pdb
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\obj\Debug\net7.0\DemoApp.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Codes\Day8\Morning\DemoApp\obj\Debug\net7.0\ref\DemoApp.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DTuSDTJyRyozjfiztbr9cRW7qi5rEJoQR4UR1ixyRT/NZT8GpammUkzlDHz4sSfDUwmpHM4B+0osU+Vi6/dhng==",
+  "success": false,
+  "projectFilePath": "D:\\DAC\\Hussain sir's Dotnet\\Codes\\Day14\\AspNetCoreMvcTest\\BasicWebApp\\BasicWebApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "MET.Tourism"
+    }
+  ]
+}

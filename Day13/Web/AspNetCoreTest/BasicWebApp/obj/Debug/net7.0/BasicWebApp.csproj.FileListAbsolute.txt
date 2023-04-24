@@ -1,0 +1,50 @@
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\bin\Debug\net7.0\BasicWebApp.exe
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\bin\Debug\net7.0\BasicWebApp.deps.json
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\bin\Debug\net7.0\BasicWebApp.runtimeconfig.json
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\bin\Debug\net7.0\BasicWebApp.dll
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\bin\Debug\net7.0\BasicWebApp.pdb
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.csproj.AssemblyReference.cache
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.AssemblyInfoInputs.cache
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.AssemblyInfo.cs
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets\msbuild.BasicWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BasicWebApp.props
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BasicWebApp.props
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BasicWebApp.props
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\scopedcss\bundle\BasicWebApp.styles.css
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.dll
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\refint\BasicWebApp.dll
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.pdb
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.genruntimeconfig.cache
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\ref\BasicWebApp.dll
+C:\Users\CDAC\DotNet\Platform\Web\AspNetCoreTest\BasicWebApp\bin\Debug\net7.0\BasicWebApp.staticwebassets.runtime.json
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\bin\Debug\net7.0\BasicWebApp.staticwebassets.runtime.json
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\bin\Debug\net7.0\BasicWebApp.exe
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\bin\Debug\net7.0\BasicWebApp.deps.json
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\bin\Debug\net7.0\BasicWebApp.runtimeconfig.json
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\bin\Debug\net7.0\BasicWebApp.dll
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\bin\Debug\net7.0\BasicWebApp.pdb
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.csproj.AssemblyReference.cache
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.AssemblyInfoInputs.cache
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.AssemblyInfo.cs
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.csproj.CoreCompileInputs.cache
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets\msbuild.BasicWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BasicWebApp.props
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BasicWebApp.props
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BasicWebApp.props
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\scopedcss\bundle\BasicWebApp.styles.css
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.dll
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\refint\BasicWebApp.dll
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.pdb
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\BasicWebApp.genruntimeconfig.cache
+D:\DAC\Hussain sir's Dotnet\Codes\Day13\Web\AspNetCoreTest\BasicWebApp\obj\Debug\net7.0\ref\BasicWebApp.dll

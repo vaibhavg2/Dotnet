@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Z0jZzzQmAFtgY51tvKXKd8WzWjtvxXQ3HB5Y+gqU308=",
+  "Source": "BasicWebApp",
+  "BasePath": "_content/BasicWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BasicWebApp\\wwwroot",
+      "Source": "BasicWebApp",
+      "ContentRoot": "D:\\DAC\\Hussain sir's Dotnet\\Codes\\Day13\\Web\\AspNetCoreTest\\BasicWebApp\\wwwroot\\",
+      "BasePath": "_content/BasicWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\DAC\\Hussain sir's Dotnet\\Codes\\Day13\\Web\\AspNetCoreTest\\BasicWebApp\\wwwroot\\formpost.html",
+      "SourceId": "BasicWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DAC\\Hussain sir's Dotnet\\Codes\\Day13\\Web\\AspNetCoreTest\\BasicWebApp\\wwwroot\\",
+      "BasePath": "_content/BasicWebApp",
+      "RelativePath": "formpost.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\formpost.html"
+    }
+  ]
+}

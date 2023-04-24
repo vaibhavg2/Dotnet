@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2LmHQNz27p7sseZoQ0WlgtMhAkdF1IhxmpxHUkgn6Tmm+TQ9ZuJ7NHQcYcnSZt2eilPI824yImfuiWbTp+fbaQ==",
+  "success": true,
+  "projectFilePath": "D:\\DAC\\Hussain sir's Dotnet\\Codes\\Day12\\Database\\SimpleSqlTest\\DemoApp\\DemoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.data.sqlite\\7.0.1\\microsoft.data.sqlite.7.0.1.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.1\\microsoft.data.sqlite.core.7.0.1.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

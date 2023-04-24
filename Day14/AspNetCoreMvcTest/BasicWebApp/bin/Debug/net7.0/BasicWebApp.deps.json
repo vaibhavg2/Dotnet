@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BasicWebApp/1.0.0": {
+        "dependencies": {
+          "MET.Tourism": "1.1.0"
+        },
+        "runtime": {
+          "BasicWebApp.dll": {}
+        }
+      },
+      "MET.Tourism/1.1.0": {
+        "runtime": {
+          "lib/net7.0/Tourism.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MET.Tourism/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MsYuy68Hvhrht+FKp0NgNISOzBWwxN+TF+/y+o0Htpe3jqMR9pS97huoA/OG3u7xrjwFAuyq1NN/tKBJoouixw==",
+      "path": "met.tourism/1.1.0",
+      "hashPath": "met.tourism.1.1.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+Loading personal and system profiles took 599ms.
+[PS DotNet]> dotnet --version
+7.0.100
+[PS DotNet]> mkdir Language
+
+
+    Directory: C:\Users\CDAC\DotNet
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        20-12-2022     10:54                Language
+
+
+[PS DotNet]> cd .\Language\
+[PS Language]> mkdir Basics
+
+
+    Directory: C:\Users\CDAC\DotNet\Language
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        20-12-2022     10:54                Basics
+
+
+[PS Language]> cd .\Basics\
+[PS Basics]> notepad Hello.cs                                                 [PS Basics]> Invoke-WebRequest -Uri cdaclab.bkc.met.edu/shared/dotnet/dotnet-csc.cmd -OutFile dotnet-csc.cmd                                                [PS Basics]> ls
+
+
+    Directory: C:\Users\CDAC\DotNet\Language\Basics
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        20-12-2022     10:59           1429 dotnet-csc.cmd
+-a----        20-12-2022     10:57            102 Hello.cs
+
+
+[PS Basics]> .\dotnet-csc.cmd .\Hello.cs
+[PS Basics]> ls
+
+
+    Directory: C:\Users\CDAC\DotNet\Language\Basics
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        20-12-2022     10:59           1429 dotnet-csc.cmd
+-a----        20-12-2022     10:57            102 Hello.cs
+-a----        20-12-2022     10:59           4096 Hello.dll
+-a----        20-12-2022     10:59            127 Hello.runtimeconfig.json
+
+
+[PS Basics]> notepad.exe .\Hello.runtimeconfig.json
+[PS Basics]> dotnet .\Hello.dll
+Hello World!
+[PS Basics]> notepad.exe .\Hello.runtimeconfig.json
